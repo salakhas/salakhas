@@ -16,13 +16,15 @@ I am skilled in HTML, CSS, JavaScript, Node.JS, MongoDB,React and Express.JS.
 
 <h2>Tech Stack 🌐</h2>
 <div style="display: flex">
-<img width="100" alt="pic" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-nodejs-logo-27.png">
+<img width="100" alt="pic" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfGDrl6cb6FxNvbUdtGZNnPSFgsoGeFq454A&usqp=CAU">
 <img width="100" alt="pic" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmL-mHtl08CW8WRuj4gXWwSbC_v8ehYjxf0g&usqp=CAU">
 <img width="100" alt="pic" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDFyp4SbHzLER5QEENGULo4Ygvi49jFjaKzQ&usqp=CAU">
 <img width="100" alt="pic" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2U4z0-PN0rhos95WJm9E5yCQoSWyZQshvbg&usqp=CAU">
 <img width="100" height="100" alt="pic" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCqaUrC946m7JXyuvrno15HXN0dH8GxC6uySFxkdWdMbYPtXndfb4cPJqjZ3steMHO-Sc&usqp=CAU">
 <img width="100" alt="pic" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJi-UxGs4sTXyd91CFtv5sFijJfuQotb61rg&usqp=CAU">
 <img width="100" height="100" alt="pic" src="https://media.vlpt.us/images/codernineteen/post/cfcc754f-80ce-4293-a66e-550992723fa4/react%20thumb.png">
+<img width="100" height="100" alt="pic" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEQBepwf5dNHrIVytqHjarhkJXSpDcSVWxvA&usqp=CAU">
+ <img width="100" height="100" alt="pic" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpkHYP9HLFnlIuCGNZ0m4-HVWhRl78RFiERQ&usqp=CAU">
 </div>
 
 
