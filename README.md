@@ -29,6 +29,12 @@ I am skilled in HTML, CSS, JavaScript, Node.JS, MongoDB,React and Express.JS.
 </div>
 
 
+<br/>
+    <a href="https://github.com/Pulkit0111/github-readme-stats"><img alt="Salakha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=salakhas&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Pulkit0111/github-readme-stats"><img alt="Salakha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salakhas&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 
 
 <h2>How To Reach Me📞</h2>
@@ -37,6 +43,8 @@ I am skilled in HTML, CSS, JavaScript, Node.JS, MongoDB,React and Express.JS.
   <li>LinkedIn : https://www.linkedin.com/in/salakha-s-48265421b</li>
   <li>Medium : https://medium.com/@ssalakha16</li>
 </ul>
+
+
 
 <!---👀 I’m interested in coding
 🌱 I’m currently learning MERN Stack
