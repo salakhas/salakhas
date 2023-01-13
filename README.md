@@ -2,7 +2,7 @@
 
 <img width="386" alt="pic" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
-I'm a Full-Stack Web Developer eager to learn and develop. <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50px" style="max-width: 100%;"></a><br/>
+I'm a Frontend Web Developer eager to learn and develop. <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50px" style="max-width: 100%;"></a><br/>
 I'm passionate about web development and interested in exploring new areas in coding. <br/>
 I would like to work in a dynamic organization that helps enhance my technical skills and knowledge. I hope to work in a challenging environment which will in turn help me grow and develop alongside the organization.  <br/>
 I am skilled in HTML, CSS, JavaScript, React.js, Next.js, Typescript, Dart and Flutter.
