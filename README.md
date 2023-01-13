@@ -10,7 +10,6 @@ I am skilled in HTML, CSS, JavaScript, Node.JS, MongoDB,React and Express.JS.
 
 
 🤖 I’m interested in Front-end development<br/>
-🌱 I’m currently learning MERN Stack<br/>
 💞️ I’m looking to collaborate on projects<br/>
 🧩 In my spare time I like reading books and writing short stories.<br/>
 🌍 Check out my porfolio here => https://salakhas-portfolio.netlify.app/
