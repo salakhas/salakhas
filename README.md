@@ -15,17 +15,18 @@ I am skilled in HTML, CSS, JavaScript, React.js, Next.js, Typescript, Dart and F
 🌍 Check out my porfolio here => https://salakhas-portfolio.netlify.app/
 
 <h2>Tech Stack 🌐</h2>
-<div style="display: flex">
-<img width="75" alt="pic" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfGDrl6cb6FxNvbUdtGZNnPSFgsoGeFq454A&usqp=CAU">
-<img width="75" alt="pic" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmL-mHtl08CW8WRuj4gXWwSbC_v8ehYjxf0g&usqp=CAU">
-<img width="75" alt="pic" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDFyp4SbHzLER5QEENGULo4Ygvi49jFjaKzQ&usqp=CAU">
-<img width="75" height="75" alt="pic" src="https://media.vlpt.us/images/codernineteen/post/cfcc754f-80ce-4293-a66e-550992723fa4/react%20thumb.png">&nbsp;
-<img width="75" height="75" alt="pic" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgJCHDZmwelieh53k3nADoFtiiCLyneTP1GuNf-puVAZEDPlSXqZBZ9o6fXOft00dwdjc&usqp=CAU">&nbsp;
-<img width="75" alt="pic" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png">
- <img width="95" height="75" alt="pic" src="https://www.extremetech.com/wp-content/uploads/2011/10/dart-logo-banner1-348x196.jpg">
- <img width="75" height="75" alt="pic" src="https://www.swtestacademy.com/wp-content/uploads/2022/06/flutter.webp">
-</div>
-
+<p>
+ <img alt="nextjs" src="https://img.shields.io/badge/Next.js-323330?style=for-the-badge&logo=nextdotjs&logoColor=#000000"  height="25px"/>
+<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
+<img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
+<img alt="Tailwidcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
+<img alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
+<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
+ <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
+ <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
+</p>
 
 <br/>
 <!--     <a href="https://github.com/Pulkit0111/github-readme-stats"><img alt="Salakha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=salakhas&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
