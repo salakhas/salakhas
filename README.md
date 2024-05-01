@@ -22,8 +22,10 @@ I am skilled in HTML, CSS, JavaScript, React.js, Next.js, Typescript, Dart and F
 <img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
 <img alt="Tailwidcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
 <img alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
+<img alt="Html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
+<img alt="React Query" src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" height="25px"/>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
-<img alt="Chakra ui" src="https://img.shields.io/badge/ChakraUI-FFFFFF?style=flat-square&logo=chakraui&logoColor=2D3748" height="25px"/>
+<img alt="Chakra ui" src="https://img.shields.io/badge/Chakra%20UI-FFFFFF?style=flat-square&logo=chakraui&logoColor=319795" height="25px"/>
  
 </p>
 
