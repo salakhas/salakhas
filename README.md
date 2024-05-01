@@ -38,7 +38,7 @@ I am skilled in HTML, CSS, JavaScript, React.js, Next.js, Typescript, Dart and F
 <h2>How To Reach Me📞</h2>
 <ul>
   <li>Email: ssalakha16@gmail.com</li>
-  <li>LinkedIn : https://www.linkedin.com/in/salakha-s-48265421b</li>
+  <li>LinkedIn : https://www.linkedin.com/in/salakhas</li>
   <li>Medium : https://medium.com/@ssalakha16</li>
 </ul>
 
