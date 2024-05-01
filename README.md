@@ -2,7 +2,7 @@
 
 <img width="386" alt="pic" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
-I'm a passionate frontend web developer with a focus on building engaging user interfaces using modern web technologies.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" alt="Cat" width="25" height="25" /><br/> Here's a bit about me: <br/>
+I'm a passionate frontend web developer with a focus on building engaging user interfaces using modern web technologies.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" alt="Cat" width="25" height="25" /><br/> Here's a bit about me: <br/><br/>
 I'm passionate about web development and interested in exploring new areas in coding. <br/>
 I would like to work in a dynamic organization that helps enhance my technical skills and knowledge. I hope to work in a challenging environment which will in turn help me grow and develop alongside the organization.  <br/>
 I am skilled in HTML, CSS, JavaScript, React.js, Next.js, Typescript, Dart and Flutter.
