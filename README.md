@@ -23,7 +23,7 @@ I am skilled in HTML, CSS, JavaScript, React.js, Next.js, Typescript, Dart and F
 <img alt="Tailwidcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
 <img alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
-<img alt="Chakra ui" src="https://img.shields.io/badge/Chakra-FFFFFF?style=flat-square&logo=chakraui&logoColor=black" height="25px"/>
+<img alt="Chakra ui" src="https://img.shields.io/badge/ChakraUI-FFFFFF?style=flat-square&logo=chakraui&logoColor=2D3748" height="25px"/>
  
 </p>
 
